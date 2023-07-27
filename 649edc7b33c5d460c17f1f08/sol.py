@@ -2,7 +2,6 @@
 64bit program 
 """
 import sys
-"""fastcall with rax and rcx I guess , using them to """
 def codes(key:str):
     return key.encode("ascii")
          
